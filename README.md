@@ -3,7 +3,7 @@
 
 Simple website made just in order to learn some front-end, espacially Bootstrap framework. 
 
-The page is available here: (https://my-first-page-bootstrap.prv.pl)
+The page is available here: https://my-first-page-bootstrap.prv.pl
 
 
 ## Built With
